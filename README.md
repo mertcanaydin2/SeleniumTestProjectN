@@ -1,2 +1,2 @@
-# TestiniumProjectN
+# SeleniumTestProjectN
 .
