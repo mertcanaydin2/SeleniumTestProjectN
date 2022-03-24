@@ -6,7 +6,7 @@ public class TestPhase extends TestMethods {
     public void testEt() throws InterruptedException{
         checkTitle();
         closePopUp();
-        loginKontrol("mertcanaydin007@gmail.com","mertcanaydin1");
+        loginKontrol("deneme@gmail.com","denemesifre");
         search();
         secondPage();
         randomProduct();
